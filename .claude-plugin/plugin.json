@@ -1,0 +1,9 @@
+{
+  "name": "timefire",
+  "displayName": "Timefire",
+  "version": "0.1.0",
+  "description": "Check Timefire's public record of AI stock forecasts: look up graded books, review the track record and verify each book's seal. Read-only, no account needed.",
+  "author": { "name": "Timefire", "url": "https://timefire.ai" },
+  "homepage": "https://timefire.ai/developers/mcp/",
+  "license": "MIT"
+}

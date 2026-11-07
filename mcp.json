@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "timefire": {
+      "url": "https://api.timefire.ai/mcp/"
+    }
+  }
+}
