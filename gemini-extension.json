@@ -1,10 +1,11 @@
 {
   "name": "timefire",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check Timefire's public record of AI stock forecasts: look up graded books, review the track record and verify each book's seal. Read-only, no account needed.",
   "mcpServers": {
     "timefire": {
-      "httpUrl": "https://api.timefire.ai/mcp/"
+      "type": "http",
+      "url": "https://api.timefire.ai/mcp/"
     }
   }
 }
