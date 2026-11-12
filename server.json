@@ -3,8 +3,12 @@
   "name": "ai.timefire/record",
   "title": "Timefire",
   "description": "Timefire's public record of AI stock forecasts: graded books, track record and proof.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://timefire.ai/developers/mcp/",
+  "repository": {
+    "url": "https://github.com/timefire-ai/timefire-plugin",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
